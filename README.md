@@ -1,1 +1,1 @@
-![heroimage]((public/IMG_3575.JPG))
+![heroimage](public/IMG_3575.JPG)
