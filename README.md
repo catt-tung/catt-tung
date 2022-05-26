@@ -19,6 +19,8 @@ Apart from coding, I'm a pretty international, intellectually oriented individua
 My dev portfolio can be found at https://cattcodes.com/
 
 ## Tech Stack
+The following is my main tech stack - there are more, but these are the main ones (with the nice icons)
+
 [![react](public/react-50.svg)](#)
 [![js](public/js-50.svg)](#)
 [![nodejs](public/icons8-nodejs-512.svg)](#)
