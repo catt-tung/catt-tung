@@ -10,13 +10,34 @@ _(this looks like New York and it is, but I'm actually based in Boston. Read mor
 
 I’m a full stack software engineer with an eye for styling and experience on the business side of the software industry. I’m currently living in Boston, Massachusetts.
 
-Prior to software engineering and moving to Boston, I was a Business Development Manager in London (UK) at [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher/pro/) team. I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project as well. I'm now full on into coding and web development.
+Prior to software engineering and moving to Boston, I was a Business Development Manager in London (UK) at [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher/pro/) team. I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain orderer and logistics planner for the company. I'm now full on into coding and web development.
 
 I love building projects with a personal connection and backstory to bring my unique background into the industry.
 
-Apart from coding, I'm a pretty international, intellectually oriented individual. I've lived in many countries and cities, did a lot of storywriting, and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and even some Bulgarian🇧🇬 and Taiwanese🇹🇼
+Apart from coding, I'm a pretty international, intellectually oriented individual. I've lived in many countries and cities, did a lot of storywriting, and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and even some Bulgarian🇧🇬 and Taiwanese🇹🇼.
 
 My dev portfolio can be found at https://cattcodes.com/
+
+## Tech Stack
+#### Frontend
+![react](public/react-50.svg)
+![html](public/html-50.svg)
+![js](public/js-50.svg)
+![css](public/css3-50.svg)
+![bootstrap](public/bootstrap.svg)
+
+#### Backend
+![nodejs](public/icons8-nodejs-512.svg)
+![express](public/expressjs-icon.svg)
+![python](public/python.svg)
+![flask](public/flask.svg)
+![git](public/icons8-git.svg)
+![jwt](public/jwt.svg)
+![postman](public/postman.svg)
+
+#### Databases
+![postgresql](public/postgresql.svg)
+![mongodb](public/icons8-mongodb-48.svg)
 
 ## Let's connect!
 I love meeting people in this industry. Let's connect here or if you prefer:
