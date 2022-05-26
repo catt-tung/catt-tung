@@ -19,25 +19,20 @@ Apart from coding, I'm a pretty international, intellectually oriented individua
 My dev portfolio can be found at https://cattcodes.com/
 
 ## Tech Stack
-#### Frontend
 [![react](public/react-50.svg)](#)
-[![html](public/html-50.svg)](#)
 [![js](public/js-50.svg)](#)
-[![css](public/css3-50.svg)](#)
-[![bootstrap](public/bootstrap.svg)](#)
-
-#### Backend
 [![nodejs](public/icons8-nodejs-512.svg)](#)
 [![express](public/expressjs-icon.svg)](#)
 [![python](public/python.svg)](#)
-[![flask](public/flask.svg)](#)
 [![git](public/icons8-git.svg)](#)
-[![jwt](public/jwt.svg)](#)
-[![postman](public/postman.svg)](#)
-
-#### Databases
+[![html](public/html-50.svg)](#)
+[![css](public/css3-50.svg)](#)
 [![postgresql](public/postgresql.svg)](#)
 [![mongodb](public/icons8-mongodb-48.svg)](#)
+[![postman](public/postman.svg)](#)
+[![bootstrap](public/bootstrap.svg)](#)
+[![flask](public/flask.svg)](#)
+[![jwt](public/jwt.svg)](#)
 
 ## Let's connect!
 I love meeting people in this industry. Let's connect here or if you prefer:
