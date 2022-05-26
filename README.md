@@ -32,8 +32,8 @@ The following is my main tech stack - there are more, but these are the main one
 [![postgresql](public/postgresql.svg)](#)
 [![mongodb](public/icons8-mongodb-48.svg)](#)
 [![postman](public/postman.svg)](#)
-[![bootstrap](public/bootstrap.svg)](#)
 [![flask](public/flask.svg)](#)
+[![bootstrap](public/bootstrap.svg)](#)
 [![jwt](public/jwt.svg)](#)
 
 ## Let's connect!
