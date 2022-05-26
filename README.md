@@ -20,9 +20,9 @@ My dev portfolio can be found at https://cattcodes.com/
 
 ## Tech Stack
 #### Frontend
-![react](public/react-50.svg)
-![html](public/html-50.svg)
-![js](public/js-50.svg)
+[![react](public/react-50.svg)](#)
+[![html](public/html-50.svg)](#)
+[![js](public/js-50.svg)](#)
 ![css](public/css3-50.svg)
 ![bootstrap](public/bootstrap.svg)
 
