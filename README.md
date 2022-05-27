@@ -8,7 +8,7 @@ _(this looks like New York and it is, but I'm actually based in Boston. Read mor
 ## About Me
 ### Hi there! I’m Catt.
 
-I’m a full stack software engineer with an eye for styling and experience on the business side of the software industry. I’m currently living in Boston, Massachusetts.
+I’m a story-driven full stack software engineer with an eye for styling and experience on the business side of the software industry. I’m currently living in Boston, Massachusetts.
 
 Prior to software engineering and moving to Boston, I was a Business Development Manager in London (UK) at [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher/pro/) team. I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain orderer and logistics planner for the company. I'm now full on into coding and web development.
 
