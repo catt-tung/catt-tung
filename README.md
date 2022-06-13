@@ -16,7 +16,9 @@ I love building projects with a personal connection and backstory to bring my un
 
 Apart from coding, I'm a pretty international, intellectually oriented individual. I've lived in many countries and cities, did a lot of storywriting, and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and even some Bulgarian🇧🇬 and Taiwanese🇹🇼.
 
-My dev portfolio can be found at https://cattcodes.com/
+My dev portfolio can be found at [Catt Codes](https://cattcodes.com/)
+
+I also keep a daily blog about my learning journey on [DevDojo](https://cattkaizen.devdojo.com/) if you'd like to follow along! Mostly to keep myself accountable but would love to meet friends. 
 
 ## Tech Stack
 The following is my main tech stack - there are more, but these are the main ones (with the nice icons)
@@ -37,7 +39,7 @@ The following is my main tech stack - there are more, but these are the main one
 [![jwt](public/jwt.svg)](#)
 
 ## Let's connect!
-I love meeting people in this industry. Let's connect here or if you prefer:
+I love meeting people in this industry. Let's connect here, on [DevDojo](https://devdojo.com/cattkaizen) or if you prefer:
 
 <center><a href="https://www.linkedin.com/in/catt-tung/"><img src="public/icons8-linkedin-48.png"></img></a>
 <a href="https://twitter.com/cattkaizen"><img src="public/icons8-twitter-48.png"></img></a><a href="https://www.instagram.com/cattkaizen/"><img src="public/icons8-instagram-48-doodle.png"></img></a></center>
