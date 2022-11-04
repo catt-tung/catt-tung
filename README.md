@@ -10,7 +10,7 @@ _(this looks like New York and it is, but I'm actually based in Boston. Read mor
 
 I’m a story-driven full stack software engineer with an eye for styling and experience on the business side of the software industry. I’m currently a technical implementation specialist for a software company in the manufacturing industry. I live and work in Boston, Massachusetts.
 
-Prior to software engineering and moving to Boston, I was a Business Development Manager in London (UK) at [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher/pro/) team. Inspired by the capabilities of shipping Docker containers onto Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain orderer and logistics planner for the company.
+Prior to software engineering and moving to Boston, I was a Business Development Manager in London (UK) at [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher/pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain orderer and logistics planner for the company.
 
 I love building projects with a personal connection and backstory to bring my unique background into the industry.
 
