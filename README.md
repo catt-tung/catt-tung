@@ -2,8 +2,8 @@
 _(this looks like New York and it is, but I'm actually based in Boston. Read more about me below!)_
 
 ![Profile views](https://gpvc.arturio.dev/catt-tung)
-# Catt's GitHub Profile
-[![Catt's GitHub stats](https://github-readme-stats.vercel.app/api?username=catt-tung&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/catt-tung/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catt-tung&theme=radical&layout=compact)](https://github.com/catt-tung/github-readme-stats)
+<!-- # Catt's GitHub Profile -->
+<!-- [![Catt's GitHub stats](https://github-readme-stats.vercel.app/api?username=catt-tung&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/catt-tung/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catt-tung&theme=radical&layout=compact)](https://github.com/catt-tung/github-readme-stats) -->
 <!-- [![Catt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cattkaizen&theme=radical&layout=compact)](https://github.com/catt-tung/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catt-tung&repo=potluck-planner-CRUD-app)](https://github.com/catt-tung/potluck-planner-CRUD-app) -->
 ## About Me
