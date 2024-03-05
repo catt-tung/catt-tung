@@ -8,15 +8,15 @@ _(this looks like New York and it is, but I'm actually based in Boston. Read mor
 ## About Me
 ### Hi there! I’m Catt.
 
-I’m a developer in Boston, Massachusetts.
+I’m an engineer/developer in Boston, Massachusetts.
 
-Prior to software engineering and moving to Boston, I was a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
+Prior to engineering and moving to Boston, I was a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
 
-I love building projects with a personal connection and backstory to bring my unique background into the industry. I primarily worked in Python for work, and JavaScript for personal projects. 
+I love building projects with a personal connection and backstory to bring my unique background into the industry. I also love continually learning about this industry, technical skills, and the fundamentals - DS&A anyone? I primarily worked in Python for work, and JavaScript for personal projects.
 
 Apart from coding, I'm an international, intellectually oriented individual. I've lived in many countries and cities and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and some Bulgarian🇧🇬 and Taiwanese🇹🇼.
 
-My dev portfolio can be found at [Catt Codes](https://cattcodes.com/)
+My dev portfolio/CV can be found at [Catt Codes](https://cattcodes.com/)
 
 I also work on keeping a log about my learning journey on [DevDojo](https://cattkaizen.devdojo.com/) if you'd like to connect - it's mostly to keep myself accountable but would love to meet friends. 
 
@@ -39,7 +39,7 @@ The following is my main tech stack - there are more, but these are the main one
 [![jwt](public/jwt.svg)](#)
 
 ## Let's connect!
-I love meeting people in this industry. Let's study Data Structures & Algorithms together. We can connect here, on [DevDojo](https://devdojo.com/cattkaizen) or if you prefer, here are my other handles:
+I love meeting people in this industry. We can connect here, on [DevDojo](https://devdojo.com/cattkaizen) or if you prefer, here are my other handles:
 
 <center><a href="https://www.linkedin.com/in/catt-tung/"><img src="public/icons8-linkedin-48.png"></img></a>
 <a href="https://twitter.com/cattkaizen"><img src="public/icons8-twitter-48.png"></img></a><a href="https://www.instagram.com/cattkaizen/"><img src="public/icons8-instagram-48-doodle.png"></img></a></center>
