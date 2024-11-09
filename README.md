@@ -38,7 +38,7 @@ The following is my main tech stack - there are more, but these are the main one
 [![bootstrap](public/bootstrap.svg)](#)
 [![jwt](public/jwt.svg)](#)
 
-Apart from this tech stack, I'm working quite a bit on Docker and Linux skills. 
+Apart from this tech stack, I'm working quite a bit on improving my Docker and Linux skills. 
 
 ## Let's connect!
 I love meeting people in this industry. We can connect here, on [DevDojo](https://devdojo.com/cattkaizen) or if you prefer, here are my other handles:
