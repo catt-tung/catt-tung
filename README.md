@@ -9,15 +9,15 @@
 
 I’m an engineer/developer/tech enthusiast.
 
-Prior to engineering, I was a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
+Prior to engineering, I worked as a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
 
-Later on I started my hands on coding experience with General Assembly, where most of the projects here come from, and have been working in technical roles since. In terms of programming primarily worked in Python for work, and JavaScript for personal projects. In other aspects of work, I've worked with Linux, Docker, and now going on into Kubernetes.
+Later on, I started my hands on coding experience with General Assembly's Software Engineering Intensive, and have been working in technical roles ever since. In terms of programming primarily worked in Python for work, and JavaScript for personal projects. In other aspects of work, I've worked with Linux, Docker, and now going on into Kubernetes.
 
-Apart from coding, I'm an international, intellectually oriented individual. I've lived in many countries and cities and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and some Bulgarian🇧🇬 and Taiwanese🇹🇼.
+Apart from coding, I've lived in many countries and cities and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and some Bulgarian🇧🇬 and Taiwanese🇹🇼. I've had so many incredible experiences in so many different cultures and world cities, and feel like it's all just getting started.
 
-My dev portfolio/CV can be found at [Catt Codes](https://cattcodes.com/). The project links unfortunately aren't live deployed anymore since Heroku changed their free tier!
+My dev portfolio/CV can be found at [Catt Codes](https://cattcodes.com/). The project links unfortunately aren't live deployed anymore since Heroku changed their free tier, but I like how it looks on the website. Maybe I can think about redeploying them in another way when I get the chance, but I'm always really busy with either projects, studying, or gathering more industry knowledge that usually that takes priority at the moment.
 
-I also sometimes write about my learning journey on [DevDojo](https://cattkaizen.devdojo.com/) if you'd like to connect - it's mostly to keep myself accountable but maybe my musings might be interesting.
+I also sometimes write about my learning journey on [DevDojo](https://cattkaizen.devdojo.com/) if you'd like to connect - it's mostly to keep myself accountable, but I'm thinking about getting more into documenting more of my experiences with all the new things I'm studying and learning. 
 
 ## Tech Stack
 The following is my main tech stack - there are more, but these are the main ones (with the nice icons)
@@ -37,7 +37,7 @@ The following is my main tech stack - there are more, but these are the main one
 [![bootstrap](public/bootstrap.svg)](#)
 [![jwt](public/jwt.svg)](#)
 
-Apart from this tech stack, I have been working on Linux system administration and Docker.
+Apart from this tech stack, as mentioned before I have been working on Linux administration, Docker, and Kubernetes.
 
 ## Let's connect!
 I love meeting people in this industry. We can connect on [DevDojo](https://devdojo.com/cattkaizen) or if you prefer, here are my other handles:
