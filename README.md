@@ -7,7 +7,7 @@
 ## About Me
 ### Hi there! I’m Catt.
 
-I’m an engineer/developer.
+I’m an engineer/developer/tech enthusiast.
 
 Prior to engineering, I was a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
 
