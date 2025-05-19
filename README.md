@@ -11,7 +11,7 @@ I’m an engineer/developer.
 
 Prior to engineering, I was a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
 
-Later on I started my hands on coding experience with General Assembly, where most of the projects here come from, and have been working in technical roles since. I primarily worked in Python for work, and JavaScript for personal projects.
+Later on I started my hands on coding experience with General Assembly, where most of the projects here come from, and have been working in technical roles since. In terms of programming primarily worked in Python for work, and JavaScript for personal projects. In other aspects of work, I've worked with Linux, Docker, and now going on into Kubernetes.
 
 Apart from coding, I'm an international, intellectually oriented individual. I've lived in many countries and cities and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and some Bulgarian🇧🇬 and Taiwanese🇹🇼.
 
