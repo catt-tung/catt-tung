@@ -11,7 +11,7 @@ I’m an engineer/developer/tech enthusiast based in Cambridge, Massachusetts.
 
 Prior to engineering, I worked as a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
 
-Later on, I started my hands on coding experience with General Assembly's Software Engineering Intensive, and have been working in technical roles ever since. I started with a Python focused role at a startup in Boston in the manufacturing industry, then got to join Bitwarden's integration engineering team. The role at Bitwarden got me really into Linux engineering and Docker, and a bit later on, Kubernetes. In 2026, I completed certifications for the CKA, CKAD, KCSA, and KCNA from the Linux Foundation, and am still working toward improving my skills in these domains and keeping up the programming + data structures and algorithms.
+Later on, I started my hands on coding experience with General Assembly's Software Engineering Intensive, and have been working in technical roles ever since. I started with a Python focused role at a startup in Boston in the manufacturing industry, then got to join Bitwarden's integration engineering team. The role at Bitwarden got me really into Linux engineering and Docker, and a bit later on, Kubernetes. In 2026, I completed certifications for the CKA, CKAD, KCSA, and KCNA from the Linux Foundation. I am still working toward improving my skills in these domains, and keeping up the programming + data structures and algorithms skills as well.
 
 <!--
 Apart from coding, I've lived in many countries and cities and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and some Bulgarian🇧🇬 and Taiwanese🇹🇼. I've had so many incredible experiences in so many different cultures and world cities, and feel like it's all just getting started.
@@ -20,7 +20,7 @@ My dev portfolio/CV can be found at [Catt Codes](https://cattcodes.com/). The pr
 
 I also sometimes write about my learning journey on [DevDojo](https://cattkaizen.devdojo.com/) if you'd like to connect - it's mostly to keep myself accountable, but I'm thinking about getting more into documenting more of my experiences with all the new things I'm studying and learning.  -->
 
-## Tech Stack
+## Web Dev Tech Stack
 The following is my main tech stack for app development - there are more, but these are the main ones (with the nice icons)
 
 [![react](public/react-50.svg)](#)
@@ -39,7 +39,7 @@ The following is my main tech stack for app development - there are more, but th
 [![jwt](public/jwt.svg)](#)
 
 ## Let's connect!
-I love meeting people in this industry. Here are my handles:
+If you're interested in connecting, here are my handles:
 
 <center><a href="https://www.linkedin.com/in/catt-tung/"><img src="public/icons8-linkedin-48.png"></img></a>
 <a href="https://twitter.com/cattkaizen"><img src="public/icons8-twitter-48.png"></img></a><a href="https://www.instagram.com/cattkaizen/"><img src="public/icons8-instagram-48-doodle.png"></img></a></center>
