@@ -7,13 +7,13 @@
 ## About Me
 ### Hi there! I’m Catt.
 
-I'm an integration engineer at the Enterprise grade open-source password manager, [Bitwarden](https://bitwarden.com/) where I solve issues with the product and help troubleshoot self-hosted server down and other deployment issues.
+I'm an integration engineer at the Enterprise grade open-source password manager, [Bitwarden](https://bitwarden.com/), where I solve issues with the product and help troubleshoot self-hosted server down and other deployment issues.
 
 From working with these self-hosted deployments and troubleshooting the issues with them, I became really involved with Linux engineering, Docker container management, and container orchestration with Kubernetes - ultimately going down the path of achieving Kubernetes certifications, including the CKA, CKAD, KCSA, and KCNA exams from the Linux Foundation in 2026.
 
 Prior to engineering, I worked as a Business Development Manager in London (UK) on [balena.io’s](balena.io) [EtcherPro](https://www.balena.io/etcher-pro/) team. Inspired by the capabilities of shipping Docker containers on Raspberry Pi's, I created the conception of the [Inkyshot](https://github.com/balenalabs/inkyshot) project while working as a hardware/supply chain manager and logistics/operations specialist for the company.
 
-Later on, I started my hands on coding experience with General Assembly's Software Engineering Intensive, and have been working in technical roles ever since. I started with a Python focused role at a startup in Boston in the manufacturing industry, then got to join Bitwarden's integration engineering team. I am always working on improving and expanding my skills in this domain, and firmly believe that in the age of AI this is more important than ever to build a solid level of discernment and judgment in this industry.
+Later on, I started my hands on coding experience with General Assembly's Software Engineering Intensive, and have been working in technical roles ever since. I started with a Python focused role at a startup in Boston in the manufacturing industry, then got to join Bitwarden's integration engineering team. I am always working on improving and expanding my skills in this domain, and firmly believe that in the age of AI, it is more important than ever to build a solid level of discernment and judgment in this industry.
 
 <!--
 Apart from coding, I've lived in many countries and cities and speak multiple languages - English  🇬🇧&🇺🇸 , Mandarin 🇹🇼, Italian🇮🇹&🤌, Spanish🇪🇸, and some Bulgarian🇧🇬 and Taiwanese🇹🇼. I've had so many incredible experiences in so many different cultures and world cities, and feel like it's all just getting started.
